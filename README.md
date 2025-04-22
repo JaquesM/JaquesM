@@ -10,15 +10,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">🧑‍🦱  About Me</h3>
 
 ###
 
-<p align="left">I'm Jaques Missrie, a Senior Software Engineer from São Paulo, Brazil<br><br>👨‍💻 Building software since 2012<br>💼 Coding professionally since 2020<br>🛠️ Specializing in backend development<br>☕ Powered by coffee and curiosity</p>
+<p align="left">I'm Jaques Missrie, a Senior Software Engineer from São Paulo, Brazil<br><br>👨‍💻 Building software since 2014<br>💻 Passionate about Full-Stack development<br>☕ Powered by coffee and curiosity</p>
 
-###
+### <br>
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and tools</h3>
 
 ###
 
@@ -62,7 +62,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
 </div>
 
-###
+### <br>
 
 <h3 align="left">🔥   My Work :</h3>
 
