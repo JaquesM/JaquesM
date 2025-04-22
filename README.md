@@ -1,4 +1,4 @@
-<h1 align="center">Senior Software Engineer 👋</h1>
+<h1 align="center">Hello There 👋</h1>
 
 ###
 
@@ -64,12 +64,12 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Work :</h3>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=matpatriani&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=jaquesm&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
